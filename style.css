@@ -212,6 +212,31 @@ nav{
     max-width: 270px;
 }
 
+/* Video */
+
+#video{
+    background-color: #022859;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+}
+
+video{
+    margin: auto;
+    width: 70%;
+}
+
+.pe{
+    width: 20%;
+}
+
+.hr{
+    width: 80%;
+    margin: auto;
+}
+
 /* Tabela */
 
 table{
